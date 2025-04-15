@@ -2,6 +2,7 @@
 #include "../core/Node.h"
 #include <string>
 
+// Include necessary libraries for OpenCV and ImGui
 class OutputNode : public Node {
 public:
     OutputNode();

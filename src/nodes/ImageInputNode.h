@@ -2,6 +2,7 @@
 #include "../core/Node.h"
 #include <string>
 
+// ImageInputNode class inherits from Node
 class ImageInputNode : public Node {
 public:
     ImageInputNode();

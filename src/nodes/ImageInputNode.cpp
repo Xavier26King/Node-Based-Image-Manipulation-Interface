@@ -6,6 +6,8 @@
 ImageInputNode::ImageInputNode()
     : Node("Image Input"), filePath("C:/Users/Hp/OneDrive/Documents/Pictures/Camera Roll/WIN_20211225_11_19_28_Pro.jpg") {}
 
+// Destructor for ImageInputNode
+// Destructor is empty as there are no dynamically allocated resources to clean up
 void ImageInputNode::process() {
     if (!isDirty) return;
 
@@ -19,23 +21,7 @@ void ImageInputNode::process() {
     isDirty = false;  // ✅ CLEAR the dirty flag after loading
 }
 
-// void ImageInputNode::renderUI() {
-//     ImGui::Text("Image Input Node");
-
-//     // Static buffer to keep text persistent across frames
-//     static char buffer[512];
-//     strcpy_s(buffer, filePath.c_str());
-
-//     // Allow user to update path but only apply it on pressing Enter
-//     if (ImGui::InputText("Image Path", buffer, sizeof(buffer), ImGuiInputTextFlags_EnterReturnsTrue)) {
-//         filePath = std::string(buffer);
-//     }
-
-//     if (ImGui::Button("Reload")) {
-//         isDirty = true;
-//     }
-// }
-
+// Render the UI for the ImageInputNode
 void ImageInputNode::renderUI() {
     ImGui::Text("Image Input Node");
 

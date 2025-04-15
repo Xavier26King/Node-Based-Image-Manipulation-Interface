@@ -4,6 +4,9 @@
 #include <string>
 #include "Node.h"
 
+
+// NodeGraph class manages a collection of nodes and their connections
+// It provides methods to add nodes, connect them, and evaluate the graph
 class NodeGraph {
 public:
     std::vector<Node*> nodes;
