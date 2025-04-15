@@ -1,0 +1,16 @@
+E:\Projects\node_editor\src\core\NodeGraph.cpp;E:\Projects\node_editor\build\NodeEditor.dir\Debug\NodeGraph.obj
+E:\Projects\node_editor\src\main.cpp;E:\Projects\node_editor\build\NodeEditor.dir\Debug\main.obj
+E:\Projects\node_editor\src\nodes\BrightnessContrastNode.cpp;E:\Projects\node_editor\build\NodeEditor.dir\Debug\BrightnessContrastNode.obj
+E:\Projects\node_editor\src\nodes\ColorChannelSplitterNode.cpp;E:\Projects\node_editor\build\NodeEditor.dir\Debug\ColorChannelSplitterNode.obj
+E:\Projects\node_editor\src\nodes\ImageInputNode.cpp;E:\Projects\node_editor\build\NodeEditor.dir\Debug\ImageInputNode.obj
+E:\Projects\node_editor\src\nodes\OutputNode.cpp;E:\Projects\node_editor\build\NodeEditor.dir\Debug\OutputNode.obj
+E:\Projects\node_editor\third_party\imgui\imgui.cpp;E:\Projects\node_editor\build\NodeEditor.dir\Debug\imgui.obj
+E:\Projects\node_editor\third_party\imgui\imgui_draw.cpp;E:\Projects\node_editor\build\NodeEditor.dir\Debug\imgui_draw.obj
+E:\Projects\node_editor\third_party\imgui\imgui_widgets.cpp;E:\Projects\node_editor\build\NodeEditor.dir\Debug\imgui_widgets.obj
+E:\Projects\node_editor\third_party\imgui\imgui_tables.cpp;E:\Projects\node_editor\build\NodeEditor.dir\Debug\imgui_tables.obj
+E:\Projects\node_editor\third_party\imgui\backends\imgui_impl_glfw.cpp;E:\Projects\node_editor\build\NodeEditor.dir\Debug\imgui_impl_glfw.obj
+E:\Projects\node_editor\third_party\imgui\backends\imgui_impl_opengl3.cpp;E:\Projects\node_editor\build\NodeEditor.dir\Debug\imgui_impl_opengl3.obj
+E:\Projects\node_editor\third_party\imgui_node_editor\imgui_node_editor.cpp;E:\Projects\node_editor\build\NodeEditor.dir\Debug\imgui_node_editor.obj
+E:\Projects\node_editor\third_party\imgui_node_editor\imgui_node_editor_api.cpp;E:\Projects\node_editor\build\NodeEditor.dir\Debug\imgui_node_editor_api.obj
+E:\Projects\node_editor\third_party\imgui_node_editor\imgui_canvas.cpp;E:\Projects\node_editor\build\NodeEditor.dir\Debug\imgui_canvas.obj
+E:\Projects\node_editor\third_party\imgui_node_editor\crude_json.cpp;E:\Projects\node_editor\build\NodeEditor.dir\Debug\crude_json.obj
